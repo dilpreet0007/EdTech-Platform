@@ -1,4 +1,4 @@
-const BASE_URL = process.env.REACT_APP_BASE_URL   //deployed backend base url
+const BASE_URL = "https://edtech-platform-2.onrender.com/api/v1"   //deployed backend base url
 
 
 // AUTH ENDPOINTS
